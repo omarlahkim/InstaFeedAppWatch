@@ -4,4 +4,4 @@
 
 
 
-![Alt Text](https://github.com/omarlahkim/InstaFeedAppWatch/images/simulation.gif)
+![Alt Text](https://github.com/omarlahkim/InstaFeedAppWatch/blob/main/images/simulation.gif?raw=true)
